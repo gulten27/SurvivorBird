@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SurvivorBird.iml" filepath="$PROJECT_DIR$/.idea/modules/SurvivorBird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/SurvivorBird.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/SurvivorBird.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/SurvivorBird.core.iml" />
+    </modules>
+  </component>
+</project>

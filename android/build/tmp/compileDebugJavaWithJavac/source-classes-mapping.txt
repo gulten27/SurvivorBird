@@ -1,0 +1,10 @@
+com/gultendogan/survivorbird/R.java
+ com.gultendogan.survivorbird.R
+ com.gultendogan.survivorbird.R$color
+ com.gultendogan.survivorbird.R$drawable
+ com.gultendogan.survivorbird.R$string
+ com.gultendogan.survivorbird.R$style
+com/gultendogan/survivorbird/BuildConfig.java
+ com.gultendogan.survivorbird.BuildConfig
+com/gultendogan/survivorbird/AndroidLauncher.java
+ com.gultendogan.survivorbird.AndroidLauncher

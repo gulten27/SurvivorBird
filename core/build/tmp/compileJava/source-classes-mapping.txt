@@ -1,0 +1,2 @@
+com/gultendogan/survivorbird/SurvivorBird.java
+ com.gultendogan.survivorbird.SurvivorBird
